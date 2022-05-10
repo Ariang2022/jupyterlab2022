@@ -24,7 +24,7 @@
 ---
 ## DEPLOY YOUR OWN
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/javsubs91/jupyterlab)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ariang2022/jupyterlab2022)
 
 ---
 ## how to start ariaNg?
