@@ -34,7 +34,7 @@
 4. insert your token here `TOKEN = "insert ngrok token here"`
 5. click ▶ (Run the selected cells and advance)
 - 
-<img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png" height="105px" align="left"></a>
+<img src="https://github.com/Ariang2022/jupyterlab2022/blob/main/preview/Screenshot%20(362).png" data-canonical-src="[https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(366).png](https://github.com/Ariang2022/jupyterlab2022/blob/main/preview/Screenshot%20(362).png)" height="105px" align="left"></a>
 <img src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(365)_LI.jpg" data-canonical-src="https://raw.githubusercontent.com/javsubs91/aria2-webui-on-jupyterlab/main/preview/Screenshot%20(365)_LI.jpg" height="105px" align="center"></a>
 
 
